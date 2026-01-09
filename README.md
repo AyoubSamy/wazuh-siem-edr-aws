@@ -105,10 +105,6 @@ net localgroup administrators labuser /add
 
 [AYOUB SAMY]
 
-Étudiant ingénieur en Génie Logiciel – ENSET Mohammedia
 
-Projet réalisé dans le cadre du module « Sécurité des Endpoints et SIEM ».
-
----
 
 
