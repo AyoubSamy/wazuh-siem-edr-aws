@@ -103,7 +103,7 @@ net localgroup administrators labuser /add
 
 ## Auteur
 
-[Votre Nom]
+[AYOUB SAMY]
 
 Étudiant ingénieur en Génie Logiciel – ENSET Mohammedia
 
@@ -111,11 +111,4 @@ Projet réalisé dans le cadre du module « Sécurité des Endpoints et SIEM ».
 
 ---
 
-## Instructions pour Publier
-
-1. Créez un fichier nommé README.md à la racine de votre dossier projet sur votre ordinateur.
-2. Collez le contenu ci-dessus dedans.
-3. Remplacez [Votre Nom] par votre vrai nom à la fin.
-4. Vérifiez que vos images se trouvent dans les dossiers correspondants (Diagrams et Assets) pour que les liens fonctionnent.
-5. Exécutez git push.
 
