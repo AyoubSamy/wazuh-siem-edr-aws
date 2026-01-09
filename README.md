@@ -21,7 +21,7 @@ L'arborescence du projet est organisée comme suit :
 
 L'infrastructure repose sur une topologie Hub-and-Spoke au sein d'un VPC AWS sécurisé.
 
-![Schéma SOC Cloud Wazuh](./Diagrams/aws_soc_architecture.png)
+![Schéma SOC Cloud Wazuh](./Assets/schema_Aws_Wazuh.drawio.png)
 *(Enregistrez le schéma fourni sous le nom aws_soc_architecture.png dans le dossier Diagrams.)*
 
 ### Composants
